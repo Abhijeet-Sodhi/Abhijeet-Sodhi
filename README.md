@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet-sodhi&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet-sodhi" /> </p>
 
+- 💻 Take a look at my website! https://abhijeetsodhi.com/
+
 - 🌱 I’m currently learning **Computer Vision and Micro-controllers**
 
 - 💬 Ask me about **Python, latest Tech**
